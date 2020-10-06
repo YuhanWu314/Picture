@@ -1,0 +1,2 @@
+# Picture
+To store images
